@@ -265,10 +265,9 @@ function showForm($type){
                 </div>
         <div class="container">
                     <p class="tarikh" style="font-size:14px;margin-top:10px">
-                       expireTime: <span><?php echo $expiryTime;?></span>
+                       زمان انقضا: <span><?php echo $expiryTime;?></span>
                     </p>
                 </div>
-                
             </form>
         </div>
 
@@ -300,7 +299,7 @@ function form($msg, $error = true){
     <html dir="rtl">
     <head>
         <meta charset="utf-8"><meta name="viewport" content="width=device-width">
-        <title>error</title>
+        <title>خطا</title>
         <link type="text/css" href="assets/webconf.css" rel="stylesheet" />
         <meta name="next-head-count" content="4">
     </head>

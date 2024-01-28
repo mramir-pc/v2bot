@@ -133,7 +133,7 @@ do
 
 			 destination_dir=$(find /var/www/html -type d -name "*wizpanel*" | head -n 1)
 
-			 cd /var/www/html/ 
+			 cd /var/www/html/
 			 wget -O wizwizpanel.zip https://github.com/mramir-pc/v2bot/releases/download/v4/panel.zip
 
 			 file_to_transfer="/var/www/html/wizwizpanel.zip"

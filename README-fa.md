@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://github.com/mramir-pc/v2bot" target="_blank" rel="noopener noreferrer">
+  <a href="https://github.com/wizwizdev/v2bot" target="_blank" rel="noopener noreferrer">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/27927279/227711552-d2bc1089-5666-477b-9be7-d7e50a5286dc.png">
       <img width="200" height="200" src="https://user-images.githubusercontent.com/27927279/227711552-d2bc1089-5666-477b-9be7-d7e50a5286dc.png">
@@ -21,7 +21,7 @@
 <h1 align="center"/>ویزویز</h1>
 
 <p align="center">
-فروش آسان با <a href="https://github.com/mramir-pc/v2bot">ویزویز</a> نصب فقط با یک دستور
+فروش آسان با <a href="https://github.com/wizwizdev/v2bot">ویزویز</a> نصب فقط با یک دستور
 </p>
 
 <p align="center">
@@ -32,17 +32,17 @@
 <div align=center>
 
 [![Telegram Channel](https://img.shields.io/endpoint?label=Channel&style=flat-square&url=https%3A%2F%2Ftg.sumanjay.workers.dev%2Fwizwizch&color=blue)](https://telegram.dog/wizwizch)
-[![Telegram Group](https://img.shields.io/endpoint?color=neon&label=Support%20Group&style=flat-square&url=https%3A%2F%2Ftg.sumanjay.workers.dev%2Fmramir-pc)](https://telegram.dog/mramir-pc)
-<img src="https://img.shields.io/github/license/mramir-pc/v2bot?style=flat-square" />
-<img src="https://img.shields.io/github/v/release/mramir-pc/v2bot.svg" />
-<!-- <img src="https://visitor-badge.glitch.me/badge?page_id=mramir-pc.mramir-pc" />
+[![Telegram Group](https://img.shields.io/endpoint?color=neon&label=Support%20Group&style=flat-square&url=https%3A%2F%2Ftg.sumanjay.workers.dev%2Fwizwizdev)](https://telegram.dog/wizwizdev)
+<img src="https://img.shields.io/github/license/wizwizdev/v2bot?style=flat-square" />
+<img src="https://img.shields.io/github/v/release/wizwizdev/v2bot.svg" />
+<!-- <img src="https://visitor-badge.glitch.me/badge?page_id=wizwizdev.wizwizdev" />
  -->
 </div>
 
 <br>
 <br>
     <a align="center">
-        <img src="https://github.com/mramir-pc/v2bot/assets/27927279/f6635ea5-ab26-4c64-a7b8-952203f79763" />
+        <img src="https://github.com/wizwizdev/v2bot/assets/27927279/f6635ea5-ab26-4c64-a7b8-952203f79763" />
     </a>     
 <br>
 <br>
@@ -61,7 +61,7 @@
 - قبل از نصب حتما ip سرور را روی دامنه تنظیم کنید 
 > دستور نصب را در کنسول وارد کرده و موارد مورد نیاز را برای تکمیل نصب وارد کنید.
 ```
-bash <(curl -s https://raw.githubusercontent.com/mramir-pc/v2bot/main/wizwiz.sh)
+bash <(curl -s https://raw.githubusercontent.com/wizwizdev/v2bot/main/wizwiz.sh)
 ```
 - در مرحله اول «sub.domain.com» یا «domain.com» را بدون https وارد کنید
 - ایمیل را وارد کنید
@@ -83,7 +83,7 @@ bash <(curl -s https://raw.githubusercontent.com/mramir-pc/v2bot/main/wizwiz.sh)
 
 
 ```
-bash <(curl -s https://raw.githubusercontent.com/mramir-pc/v2bot/main/update.sh)
+bash <(curl -s https://raw.githubusercontent.com/wizwizdev/v2bot/main/update.sh)
 ```
 
 <br>
@@ -201,7 +201,7 @@ bash <(curl -Ls https://raw.githubusercontent.com/vaxilu/x-ui/master/install.sh)
 حتما به گروه و کانال بپیوندید و از ما حمایت کنید
 
 ## Contact Developer
-💎 Group: https://t.me/mramir-pc
+💎 Group: https://t.me/wizwizdev
 💎 Channel: https://t.me/wizwizch
 
 <br>
@@ -209,4 +209,4 @@ bash <(curl -Ls https://raw.githubusercontent.com/vaxilu/x-ui/master/install.sh)
 
 ## Stargazers over time
 
-[![Stargazers over time](https://starchart.cc/mramir-pc/v2bot.svg)](https://starchart.cc/mramir-pc/v2bot)
+[![Stargazers over time](https://starchart.cc/wizwizdev/v2bot.svg)](https://starchart.cc/wizwizdev/v2bot)

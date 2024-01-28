@@ -11,7 +11,7 @@ databaseName=$(cat /var/www/html/v2bot/baseInfo.php | grep '$dbName' | cut -d"'"
 
 backupDir='/tmp/db_backup'
 mkdir -p $backupDir
-backupFilename="wizwiz_$(date +'%Y-%m-%d_%H-%M-%S').sql"
+backupFilename="bkup_$(date +'%Y-%m-%d_%H-%M-%S').sql"
 mysqldump -u$databaseUser -p$databasePassword $databaseName > $backupDir/$backupFilename
 
 telegramAPI="https://api.telegram.org/bot$telegramBotToken/sendDocument"
